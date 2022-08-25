@@ -1,0 +1,4 @@
+data/data_*
+deployment/model.onnx
+venv
+.idea

@@ -1,0 +1,11 @@
+pandas
+numpy
+flask
+transformers
+onnxruntime
+plotly
+datasets==2.2.2
+sklearn
+tensorflow
+tensorboard
+nlpaug
